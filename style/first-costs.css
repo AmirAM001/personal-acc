@@ -11,9 +11,46 @@ p {
 button {
     background-color: aqua;
     font-size: 40px;
-    margin-left: 10px;
-    border-radius: 50px
+    border-radius: 50px;
 }
+
+.area .ticket-button {
+    background: rgb(0, 0, 0);
+    font-size: 40px;
+    color: rgba(3, 250, 24, 0.781);
+    border-radius: 10px;
+    
+}
+
+.area .food-button {
+    background: rgb(0, 0, 0);
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.781);
+    border-radius: 10px;
+
+}
+
+.area .junkFood-button {
+    background: rgb(0, 0, 0);
+    font-size: 40px;
+    color: rgba(250, 3, 3, 0.781);
+    border-radius: 10px;
+    
+}
+
 button.large-button {
-    width: 500px;
+    background-color: rgb(255, 153, 0);
+    width: 500px;;
+    color: rgb(0, 0, 0);
+    border-radius: 44px;
+
+}
+.return-button {
+    color: aliceblue;
+    border: 4px solid rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+.area .input {
+    margin-bottom: 40px;
 }

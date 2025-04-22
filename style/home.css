@@ -5,9 +5,21 @@ body {
 
 p {
     margin-left: 100px;
+
 }
-button {
-    background-color: aqua;
+.first-costs {
     font-size: 50px;
-    margin-left: 70px;
+    border: 5px solid rgb(255, 255, 255);
+    background-color: black;
+    color: rgb(153, 150, 0);
+}
+.main-costs {
+    font-size: 50px;
+    border: 5px solid rgb(255, 255, 255);
+    background-color: black;
+    color: rgb(153, 150, 0);
+    margin-left: 100px;
+}
+.home-head {
+    color: rgb(76, 0, 0);
 }
