@@ -1,8 +1,13 @@
 body {
-    background: green;
-    font-size: 12px;
+    background: hsl(0, 0%, 42%);
+    font-size: 70px;
 }
 
 p {
     margin-left: 100px;
+}
+button {
+    background-color: aqua;
+    font-size: 50px;
+    margin-left: 70px;
 }

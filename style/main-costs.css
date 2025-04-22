@@ -1,0 +1,21 @@
+body {
+    background: hsl(0, 0%, 42%);
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+p {
+    margin-left: 100px;
+}
+
+button {
+    background-color: aqua;
+    font-size: 40px;
+    margin-left: 10px;;
+    border-radius: 50px
+}
+button.large-button {
+    width: 500px;;
+
+}
