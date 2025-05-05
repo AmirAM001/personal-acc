@@ -1,0 +1,59 @@
+body {
+    background-color: #353232;
+}
+
+.header {
+    background-color: #ff2600;
+    color: #000000;
+    text-align: center;
+}
+
+.h4-header {
+    color: #ffee00;
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 60%;
+    margin: 20px auto;
+}
+
+.p1-header{
+    color: #ffee00;
+}
+
+.p2-header {
+    color: #2196F3;
+}
+.footer {
+    background-color: #21f34f;
+
+}
+
+.h1-header {
+    border-style: solid;
+    border-width: 4px;
+    border-color: hsl(262, 95%, 40%);
+    border-radius: 20px;
+}
+
+.p-header {
+    border-bottom: 3px solid hsl(0, 100%, 48%);
+    border-top: 3px solid yellow;
+    border-left: 3px dotted yellow;
+    border-right: 3px dotted yellow;
+    border-radius: 10px;
+}
+
+.h11-header {
+    text-shadow: 3px 3px 5px red , -3px -3px 5px blue;
+}
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(178, 178, 178);
+    box-shadow: 3px 3px 5px;
+    
+}

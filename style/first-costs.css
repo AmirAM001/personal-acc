@@ -21,6 +21,9 @@ button {
     color: aliceblue;
     font-size: 60px;
     padding-bottom: 20px;
+    text-shadow: 3px 3px 5px rgb(175, 44, 5) , -3px -3px 5px rgb(11, 185, 185);
+
+
 }
 
 .area .ticket-button {
@@ -57,11 +60,23 @@ button.large-button {
 }
 
 .return-button {
-    color: aliceblue;
-    border: 4px solid rgb(0, 0, 0);
+    color: rgb(251, 255, 240);
+    border: 3px solid rgb(255, 0, 0);
     font-size: 20px;
 }
 
 .area .input {
     margin-bottom: 40px;
+}
+
+.reset-button {
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    width: 233px;
+    border-radius: 10px;
+}
+
+.footer {
+    color: aliceblue;
 }

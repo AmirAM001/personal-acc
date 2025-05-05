@@ -29,6 +29,8 @@ button {
     font-size: 60px;
     padding-bottom: 20px;
     /* text-align: center; */
+    text-shadow: 3px 3px 5px rgb(175, 44, 5) , -3px -3px 5px rgb(11, 185, 185);
+
 }
 
 
