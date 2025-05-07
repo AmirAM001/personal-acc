@@ -1,6 +1,6 @@
 body {
-    background: url(/312.jpg);
-    background-size: cover;
+    background: url(pictures/312.jpg);
+    background-size:cover;
     text-align: center;
     font-size: 70px;
 }
@@ -28,5 +28,5 @@ p {
 
 .home-head {
     color: rgb(223, 247, 105);
-    margin-right: 100px;
+    margin: 70px;
 }
