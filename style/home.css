@@ -1,5 +1,5 @@
 body {
-    background: url(pictures/312.jpg);
+    background-image: url(pictures/312.jpg);
     background-size:cover;
     text-align: center;
     font-size: 70px;
@@ -16,7 +16,9 @@ p {
     background-color: black;
     color: rgb(153, 150, 0);
 }
-
+.first-costs:hover {
+    color: red;
+}
 
 .main-costs {
     font-size: 50px;
@@ -24,6 +26,9 @@ p {
     background-color: black;
     color: rgb(153, 150, 0);
     margin-left: 100px;
+}
+.main-costs:hover {
+    color: red;
 }
 
 .home-head {
